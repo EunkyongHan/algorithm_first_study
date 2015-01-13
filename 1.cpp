@@ -1,14 +1,7 @@
 #include <stdio.h>
 int main ()
 {
-	typedef enum {MEDIA, ICE, CHEM, PHY} Major;
-
-	struct STUDENT;
-	{
-		char name[100];
-		Major major;
-	};
-
-
+	
+	printf("hello World!");
 	return 0;
 }
